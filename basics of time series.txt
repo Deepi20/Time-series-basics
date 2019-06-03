@@ -1,0 +1,19 @@
+Assumptions of a Time sseries forecasting model
+1.Time is continuous
+2. It is stationary
+
+Investigate the components of a time series
+-To extract the trend, seasonality and random terms from the model using various decomposition techniques
+
+There are 2 functions in R to do that
+1.decompose()
+2.stl()
+
+Autocorrelation
+-It is the coreelation between the time series with lags itself
+
+Partial Autocorrelation
+-It is correlation between the time series with lags itself with linear dependance of all the lags between them is removed
+
+
+
