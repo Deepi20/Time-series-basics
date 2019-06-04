@@ -21,3 +21,14 @@ Augmented Dickey Fuller test is the test used to test the stationarity of a time
 
 If in case it is not stationary we add seasonal adjustment and then test it again using ADF test
 
+
+There are different forecasting methods namely
+1.Moving Average method
+2.Weighted moving average
+3.Auto Regressive Method
+4.Auto Regressive Moving average method
+5.Auto Regressive Integrated Moving Average method
+6.Simple exponential smoothing
+7.Double exponential smoothing
+8.Triple exponential smoothing
+
